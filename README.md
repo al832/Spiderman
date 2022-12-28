@@ -63,6 +63,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrMKN/PROFESSOR-BOT)
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fal832%2FSpiderman&env=BOT_TOKEN,API_ID,API_HASH,CHANNELS,ADMINS,DATABASE_URI,DATABASE_NAME,LOG_CHANNEL,Support_Chat)
 ## Commands
 ```
 start - check bot alive
